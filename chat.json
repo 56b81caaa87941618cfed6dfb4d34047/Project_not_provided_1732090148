@@ -30,5 +30,13 @@
         "source": "web_client",
         "content": "tell me the names of the components",
         "metadata": {}
+    },
+    {
+        "id": "63b4f92f-2be3-46e3-bb0c-34ceb4920e93",
+        "timestamp": "2024-11-20T08:33:15.875914Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The current components in your app are `Header1732090151`, `Hero1732090151`, and `Footer1732090151`. What would you like to do next?",
+        "metadata": {}
     }
 ]
