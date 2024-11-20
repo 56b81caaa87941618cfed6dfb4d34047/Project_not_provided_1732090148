@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "WebApp Pro",
+        "HERO_HEADING_TEXT": "Simplify Your Digital Workflow",
+        "HERO_SUBHEADING_TEXT": "Boost productivity with our intuitive, all-in-one solution for modern professionals",
+        "FOOTER_TEXT": "\u00a9 2023 WebApp Pro. All rights reserved. Empowering efficiency in the digital age."
+    }
+}
