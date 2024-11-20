@@ -38,5 +38,13 @@
         "source": "base_assistant",
         "content": "The current components in your app are `Header1732090151`, `Hero1732090151`, and `Footer1732090151`. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "ee41b284-03de-4576-97c2-e3c3a64d0ea7",
+        "timestamp": "2024-11-20T08:33:35.359207Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "in component Header1732090151, add a title with \"YEEE\"",
+        "metadata": {}
     }
 ]
