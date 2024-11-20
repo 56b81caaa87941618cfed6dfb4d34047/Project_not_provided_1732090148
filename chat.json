@@ -46,5 +46,20 @@
         "source": "web_client",
         "content": "in component Header1732090151, add a title with \"YEEE\"",
         "metadata": {}
+    },
+    {
+        "id": "df7e4086-1982-45a1-8f70-d000144bda8b",
+        "timestamp": "2024-11-20T08:33:38.969369Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_4Oyis9gb1Tomf8gSPXwZiTtS",
+            "function": {
+                "arguments": "{\"component_id\":\"Header1732090151\",\"change_description\":\"Add a title with the text 'YEEE' to the header.\",\"acknowledgement_message\":\"Title 'YEEE' added to the header.\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
