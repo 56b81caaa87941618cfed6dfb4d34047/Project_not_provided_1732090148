@@ -14,5 +14,13 @@
         "source": "web_client",
         "content": "add an image to the footer of a dinosaur",
         "metadata": {}
+    },
+    {
+        "id": "a584c07f-4381-4571-8608-be646fd28a89",
+        "timestamp": "2024-11-20T08:32:26.204236Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Please go to the \"Components\" tab and drag the `Footer1732090151` component onto the canvas, then let me know once you've done that.",
+        "metadata": {}
     }
 ]
